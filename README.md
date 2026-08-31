@@ -13,11 +13,13 @@ Inside this booklist, I will put all kinds of psychology and neuroscience relate
 - [Thinking, Fast and Slow](Thinking%2C%20Fast%20and%20Slow) — Daniel Kahneman
 - [Predictably Irrational](Predictably%20Irrational) — Dan Ariely
 - [The Undoing Project](The%20Undoing%20Project) — Michael Lewis
+- [Flow](Flow) — Mihaly Csikszentmihalyi
 
 **Neuroscience**
 - [The Tell-Tale Brain](The%20Tell-Tale%20Brain) — V.S. Ramachandran
 - [Behave](Behave) — Robert Sapolsky
 - [The Brain That Changes Itself](The%20Brain%20That%20Changes%20Itself) — Norman Doidge
+- [Why We Sleep](Why%20We%20Sleep) — Matthew Walker
 
 **Developmental & Social Psychology**
 - [The Developing Mind](The%20Developing%20Mind) — Daniel J. Siegel
@@ -27,3 +29,7 @@ Inside this booklist, I will put all kinds of psychology and neuroscience relate
 - [DSM-V TR](DSM-V%20TR) — American Psychiatric Association
 - [The Body Keeps the Score](The%20Body%20Keeps%20the%20Score) — Bessel van der Kolk
 - [An Unquiet Mind](An%20Unquiet%20Mind) — Kay Redfield Jamison
+- [The Psychopath Test](The%20Psychopath%20Test) — Jon Ronson
+
+**Humanistic & Existential Psychology**
+- [Man's Search for Meaning](Man%27s%20Search%20for%20Meaning) — Viktor Frankl
